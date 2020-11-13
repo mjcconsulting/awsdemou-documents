@@ -4,7 +4,10 @@ new/
 tmp/
 save/
 
-# Log files
+# Artifacts
+bucket/
+
+# Logs
 logs
 *.log
 *.log.*
